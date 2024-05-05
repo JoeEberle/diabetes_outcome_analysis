@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Diabetes Outcome Analysis - A analysis of outcomes related to diabetes treatments
 A analysis of outcomes related to diabetes treatments
 
@@ -9,8 +11,6 @@ Welcome to the solution **Diabetes Outcome Analysis** - an example for your proj
 A analysis of outcomes related to diabetes treatments
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
