@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Diabetes Outcome Analysis - A **data science report or storyboard** is a tool used to plan, visualize, and communicate the sequence of steps, findings, and insights throughout a data science project. It is particularly valuable for conveying complex analyses and results to both technical and non-technical stakeholders in an organized and engaging manner.
-A **data science report or storyboard** is a tool used to plan, visualize, and communicate the sequence of steps, findings, and insights throughout a data science project. It is particularly valuable for conveying complex analyses and results to both technical and non-technical stakeholders in an organized and engaging manner.
+# Diabetes Outcome Analysis - A analysis of outcomes related to diabetes treatments
+A analysis of outcomes related to diabetes treatments
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Diabetes Outcome Analysis** - an example for your projects
 
-A **data science report or storyboard** is a tool used to plan, visualize, and communicate the sequence of steps, findings, and insights throughout a data science project. It is particularly valuable for conveying complex analyses and results to both technical and non-technical stakeholders in an organized and engaging manner.
+A analysis of outcomes related to diabetes treatments
 
 ![Image image_filename](sample.png)
 
