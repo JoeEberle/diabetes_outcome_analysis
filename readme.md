@@ -39,11 +39,8 @@ To get started with the **Diabetes Outcome Analysis** solution repository, follo
  ![additional_image](diabetes_outcome_analysis.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
