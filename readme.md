@@ -4,21 +4,11 @@
 
 ## A analysis of outcomes related to diabetes treatments
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Diabetes Outcome Analysis** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Diabetes Outcome Analysis** 
 
 A analysis of outcomes related to diabetes treatments
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
